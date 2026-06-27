@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Lanzamiento Inicial",
+  "version": "0.1.1",
+  "notes": "Corrección del botón de análisis y optimización silenciosa de apps",
   "pub_date": "2026-06-27T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEdXRzN0VDhIT28zZ1gybXI0a1p2Wm1qblpJcGwvSHhKUGZLUVN1dVcwS0ZTMlRLV0RFb1pJblpFSzJWcTNFbytVYkNGN0orb2ZDUWpGVHVOaTFXT3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjAxMzIxCWZpbGU6aXBzLXdpZGdldF8wLjEuMF94NjQtc2V0dXAuZXhlCnBab0s4NzFoZXZpYjNzOVdYUXY5T1U2bU5QMzBhME9ZeWd3SE9pUW1RQ2srQTg3SFBLL3FKbW5memIrL1VpZHp1WHJiRU9uWUYvNHBIcmo5NFRlU0RnPT0K",
-      "url": "https://raw.githubusercontent.com/pepegastrol/ips-widget-releases/main/ips-widget_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEZPc0dleEZFOEFzdVJFZ1VJV1l0aUsyV2p4eU0zSFlvL0pkR2VjMG81eWZNSzdHY0IzOGdNOFRINHoySHNQei91R3N1K3k4TVVxUFI1NkY4VEE5aEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjAxNzEzCWZpbGU6aXBzLXdpZGdldF8wLjEuMV94NjQtc2V0dXAuZXhlCnBlVVI2cnh3eGlJTUJ5OXM4NnJMaUp5dWh5dzQxOEV5TmN4WUthRG5WM1dmK2dVdklaYUxoYVh2bUFxNkRIVzUzN0tEYUp4REMwRDVGQWR3U1orU0RnPT0K",
+      "url": "https://raw.githubusercontent.com/pepegastrol/ips-widget-releases/main/ips-widget_0.1.1_x64-setup.exe"
     }
   }
 }
