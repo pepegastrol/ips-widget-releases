@@ -1,10 +1,10 @@
 {
     "version":  "0.1.2",
     "notes":  "Arreglo de permisos ACL para Auto-Updater",
-    "pub_date":  "2026-06-27T23:19:14Z",
+    "pub_date":  "2026-06-27T23:20:55Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  null,
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEVsdXc4VHpjZzFGQTVMendIMTVvbE11YmVkUHNXek1LN0JZbC9KeEw5bWx4Uzd4NW5ReTVXZUhBaHprSEVhWU5OYnBvL0FiUXBodmJYQXVEd00zTGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjAyNDU1CWZpbGU6aXBzLXdpZGdldF8wLjEuMl94NjQtc2V0dXAuZXhlCnFrbklDRDZ4WVBzUXhBb3hMOFBXT2dnN1lOQnhNUzlHKzlJVmt3UXRUalRpdGQrUmt5RmFjR1ZHYWlKd3pIaHlyM0laenBOdmFyQWl2bTJzRy9NOUNRPT0K",
                                              "url":  "https://raw.githubusercontent.com/pepegastrol/ips-widget-releases/main/ips-widget_0.1.2_x64-setup.exe"
                                          }
                   }
