@@ -1,7 +1,7 @@
 {
     "version":  "0.1.2",
     "notes":  "Arreglo de permisos ACL para Auto-Updater",
-    "pub_date":  "2026-06-27T23:17:26Z",
+    "pub_date":  "2026-06-27T23:19:14Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  null,
