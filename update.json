@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.7",
-    "notes":  "Nueva interfaz visual del Centro de Actualizaciones (Hotfix Caché)",
-    "pub_date":  "2026-06-28T07:55:27Z",
+    "version":  "0.1.8",
+    "notes":  "Corrección de la pantalla blanca del actualizador visual",
+    "pub_date":  "2026-06-28T18:39:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEMrTjNKNHV3alJ4a2dRUGtKY0xncTlIRCtURzVCYlhwSVBnQU5jMDNTVlh6T3VHTzdhL0NTWmFhcHJ6WW5teGY3TzJXdzEvb3NGK0lJVlR5YmwvTVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjMzMzI2CWZpbGU6aXBzLXdpZGdldF8wLjEuN194NjQtc2V0dXAuZXhlCnhiZEFiTHl6clRNdHBxZUJPeksrelQ2TXBIcUQyNEhMcFdHSHpsd1l3YVB4N0owd1d5UmVrdTN3dUdCdE5pcHN3WURkQ2tlYnNJaHZCLzVIc09WakFBPT0K",
-                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEFTNGxvOUR2L3hFU0liOEJpYy9WcCtjcXNOZmtOaEludXRMcCtkQ3dNR09HWkwraVNJdlZya2ZMT3NZdmVpOGZLbnYxMzlwSE1DNEk1UHpyT1RhdGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjcxOTg0CWZpbGU6aXBzLXdpZGdldF8wLjEuOF94NjQtc2V0dXAuZXhlCk0vQ3JnYUQybEtrdThNMXFlYWY3TWtCWVcwaEFwUzdvTkxpazJhenJqT3VzcWFkTVZWd0VGeFJ5akxSbXB5SCtFSUl0VE5Scm11aFdvcUZSV1JaRUNnPT0K",
+                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.8_x64-setup.exe"
                                          }
                   }
 }
