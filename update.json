@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Parche al motor de Optimizacion Inteligente y Memoria de Cache",
-  "pub_date": "2026-06-28T06:25:56Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEoxK0cvMU5Tcy9wYzQyOTFwcVd5QnZZMktjaXgyR3E2Tkoxb0FZY0xESzY0ZWt5SDZxeXhKbXVlN2NNeWFOek5KWE96NHZkbmdyNUlSZHZOZkhiTnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjI3OTU2CWZpbGU6aXBzLXdpZGdldF8wLjEuNF94NjQtc2V0dXAuZXhlCldBZEgza05ac2xyVzhkaDZoaDdZVFVEY3ZUalY1UThTYkg1T2tFT2hsV0VrZno1Mk1JMTJBcXpZLzdVK2dKbjQ4d3k0dzhGK0x6VlUzOUFjQkJCbUNRPT0K",
-      "url": "https://raw.githubusercontent.com/pepegastrol/ips-widget-releases/main/ips-widget_0.1.4_x64-setup.exe"
-    }
-  }
+    "version":  "0.1.5",
+    "notes":  "Cambio de servidor de actualizaciones a JSDelivr CDN",
+    "pub_date":  "2026-06-28T07:04:21Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  null,
+                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.5_x64-setup.exe"
+                                         }
+                  }
 }
