@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.6",
-    "notes":  "Nueva interfaz visual de Centro de Actualizaciones",
-    "pub_date":  "2026-06-28T07:41:52Z",
+    "version":  "0.1.7",
+    "notes":  "Nueva interfaz visual del Centro de Actualizaciones (Hotfix Caché)",
+    "pub_date":  "2026-06-28T07:55:27Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cE1rWnFPQTlXYldXZXZzajdBWEg0d0tCaTdNeG54T1h1bDZQbUI4cXhYK1RqRFRqYTJVRThjS3JIMUg5OEpFeDRwRUNvYjlPZFJ0L3ZCc2tEOG9hSWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjMyNTEyCWZpbGU6aXBzLXdpZGdldF8wLjEuNl94NjQtc2V0dXAuZXhlCjk1VndORUVxdjB0NWt2eDRYbVY1Y1h0aW94S2Jld2xlRmpDT3BteXR6cTZuQVh5NjFkYkpPV0ppVVNTbThzNVRxR25oU0xiNHI1RXAwbzRlYlowckN3PT0K",
-                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEMrTjNKNHV3alJ4a2dRUGtKY0xncTlIRCtURzVCYlhwSVBnQU5jMDNTVlh6T3VHTzdhL0NTWmFhcHJ6WW5teGY3TzJXdzEvb3NGK0lJVlR5YmwvTVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjMzMzI2CWZpbGU6aXBzLXdpZGdldF8wLjEuN194NjQtc2V0dXAuZXhlCnhiZEFiTHl6clRNdHBxZUJPeksrelQ2TXBIcUQyNEhMcFdHSHpsd1l3YVB4N0owd1d5UmVrdTN3dUdCdE5pcHN3WURkQ2tlYnNJaHZCLzVIc09WakFBPT0K",
+                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.7_x64-setup.exe"
                                          }
                   }
 }
