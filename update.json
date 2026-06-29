@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.12",
-    "notes":  "Fix definitivo: eliminado style inline que bloqueaba la vista de actualizaciones",
-    "pub_date":  "2026-06-29T03:41:23Z",
+    "version":  "0.1.13",
+    "notes":  "Recompilacion total - HTML embebido correctamente",
+    "pub_date":  "2026-06-29T03:52:35Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEx5UlR2Z1NEUkJtbTl6bzQwd0o3UFlSNmJyeldvODBCM1hlSGcyOGxpenNqS1AzWFdqYWUwQWFRellBWHUvRThPaG1pMGhBc1YrYXo1VUMyNWQxZmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzA0NDgzCWZpbGU6aXBzLXdpZGdldF8wLjEuMTJfeDY0LXNldHVwLmV4ZQo1MGZkUmJHWHRmK1ZhdXBFeFE2S1dLL3E5N3cwN29xZEk4R052SDQwOEhkNkFSckVlWjBSamtzRHF6VmZZQmEyTHBpNnhxVWxKVCtqa2MwSmR6b2dCdz09Cg==",
-                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEVuTDhvS3dYbTVRYjZYNVlrc2NkbFgyTzI0aWllRU9ualU3czBJVXVmZlM2citpenhqK3RLRmh5L3JWazB3bEN4VnFXUGpuSnE4WTlKTTgxeTNSa2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzA1MTU1CWZpbGU6aXBzLXdpZGdldF8wLjEuMTNfeDY0LXNldHVwLmV4ZQpuL1JJY0tlb1Zwb2RZZzdlcEpnNVVLR3o2eDFzd3N0ZHpiWHRNMkhZblVsVFd3Z0E3WXV2YlRMc2o3ZGJaeWJrMDJ2MTBNaGlycVp5WCtJekhwZjFCQT09Cg==",
+                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.13_x64-setup.exe"
                                          }
                   }
 }
