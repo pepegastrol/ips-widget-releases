@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.9",
-    "notes":  "Corrección final visual Centro de Actualizaciones",
-    "pub_date":  "2026-06-29T02:34:43Z",
+    "version":  "0.1.10",
+    "notes":  "Sistema de Trazabilidad y Limpieza CSS",
+    "pub_date":  "2026-06-29T02:45:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEpVZDN3a1RhRUx6NGE4Y3p6M2dNT2dCNk0yVUsxSWNZYUFJOG1uQ0p1b3RuZmxQZWFvTmltVCttbHhTQklISFFwVUhPVlR6bFBCci9XVXdUdkFPd3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzAwNDgzCWZpbGU6aXBzLXdpZGdldF8wLjEuOV94NjQtc2V0dXAuZXhlCno2cVRKa1AveGdRcTFqY0dJSmlNK2RlYlZwa095T3A2d3EzY2UwbVZKS2JUZ3pEZVkvc05kNTNzRjZvRmh6YXdxSTRNYlAyWGg1V3AzdE02VEhLQ0JBPT0K",
-                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEdaWHdzREh2d2VuOFEvcHREcnNMUHN4NkV6eitWaUdXTmtaYXdRcHhtOXo4MS9ISUhMTGdLMmt1emxWMDl5OG44KzVPRTZ2TTdNSWd4cjNialBYNkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzAxMTUxCWZpbGU6aXBzLXdpZGdldF8wLjEuMTBfeDY0LXNldHVwLmV4ZQpRRGFvWW0rNlk3Y3RjZGUzaWhiT05BVzlBUGhrK2tvOFNyM1VmRm5WVUhKa2xTS0tSSjV6MnJlUEw4blBLbG9UN2JvQlFUbFBtRjNmSmxmbDQvZThEdz09Cg==",
+                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.10_x64-setup.exe"
                                          }
                   }
 }
