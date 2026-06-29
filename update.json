@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.11",
-    "notes":  "Re-empaquetado del Frontend (Fix final bug de Cargo)",
-    "pub_date":  "2026-06-29T03:05:43Z",
+    "version":  "0.1.12",
+    "notes":  "Fix definitivo: eliminado style inline que bloqueaba la vista de actualizaciones",
+    "pub_date":  "2026-06-29T03:41:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cE50V3pYUUJYOUJjNUh2UXdKWERXK2dOM2dncGJFNVV1RnJZVDB1NWRQNHlvK29PNUVDaGcwaTBPdCtuNVFOY2p1YmZOTTZFcGhQdWxsUlEySDdUelFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzAyMzQzCWZpbGU6aXBzLXdpZGdldF8wLjEuMTFfeDY0LXNldHVwLmV4ZQpManlPZ2p2OE9wWHZ6SWlSWEYyY2lNZk03c0lQTlZEczlXcWpnOGJyYVJ6Y212L3oxcHFWK3AwZWo0RDQ2QkhJSjllamVWdVhuUXJWOWpnZi82MHhEUT09Cg==",
-                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWQzbytGd3M2cEx5UlR2Z1NEUkJtbTl6bzQwd0o3UFlSNmJyeldvODBCM1hlSGcyOGxpenNqS1AzWFdqYWUwQWFRellBWHUvRThPaG1pMGhBc1YrYXo1VUMyNWQxZmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzA0NDgzCWZpbGU6aXBzLXdpZGdldF8wLjEuMTJfeDY0LXNldHVwLmV4ZQo1MGZkUmJHWHRmK1ZhdXBFeFE2S1dLL3E5N3cwN29xZEk4R052SDQwOEhkNkFSckVlWjBSamtzRHF6VmZZQmEyTHBpNnhxVWxKVCtqa2MwSmR6b2dCdz09Cg==",
+                                             "url":  "https://cdn.jsdelivr.net/gh/pepegastrol/ips-widget-releases@main/ips-widget_0.1.12_x64-setup.exe"
                                          }
                   }
 }
